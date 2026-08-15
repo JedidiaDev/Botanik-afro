@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import FaqAccordion from "./FaqAccordion";
 import { faqGroups, type FaqGroup } from "@/config/botanik";
+import { Search } from "lucide-react";
 
 const tabs: { label: string; value: "all" | FaqGroup["id"] }[] = [
   { label: "Toutes", value: "all" },
@@ -42,7 +43,7 @@ export default function FaqExperience() {
             faut savoir avant de nous rejoindre.
           </p>
           <div className="faq-search reveal">
-            <span>🔍</span>
+            <Search size={18}/>
             <input
               onChange={(event) => {
                 setQuery(event.target.value);

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 export default function FaqPage() {
   return (
     <>
-      <Header active="faq" showFaq />
+      <Header active="faq" />
       <main>
         <FaqExperience />
         <section>

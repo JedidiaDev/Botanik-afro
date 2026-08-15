@@ -61,7 +61,7 @@ export default function Footer({ compact = false }: FooterProps) {
 
           <div className="footer-col">
             <h4>Contact</h4>
-            <p>+237 6 90 00 00 00</p>
+            <p>+237 6 72 07 82 37</p>
             <p>hello@botanikafro.com</p>
             <p>Kodengui, Yaoundé — Cameroun</p>
           </div>
@@ -75,7 +75,7 @@ export default function Footer({ compact = false }: FooterProps) {
         </div>
 
         <div className="footer-bottom">
-          <span>© 2026 Botanik&apos;Afro. Tous droits réservés.</span>
+          <span>© 2026 Botani&apos;K Afro. Tous droits réservés.</span>
           <div style={{ display: "flex", gap: 24 }}>
             <a href="#">Confidentialité</a>
             <a href="#">CGV</a>

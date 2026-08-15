@@ -47,8 +47,8 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h5>Téléphone</h5>
-                    <a className="link" href="tel:+237690000000">
-                      +237 6 90 00 00 00
+                    <a className="link" href="tel:+237672078237">
+                      +237 6 72 07 82 37
                     </a>
                   </div>
                 </div>
@@ -75,13 +75,13 @@ export default function ContactPage() {
                 <div className="quick-actions">
                   <a
                     className="btn btn-primary btn-sm"
-                    href="https://wa.me/237690000000"
+                    href="https://wa.me/237672078237"
                     rel="noopener"
                     target="_blank"
                   >
                     WhatsApp
                   </a>
-                  <a href="tel:+237690000000" className="btn btn-ghost btn-sm">
+                  <a href="tel:+237672078237" className="btn btn-ghost btn-sm">
                     Appeler
                   </a>
                 </div>

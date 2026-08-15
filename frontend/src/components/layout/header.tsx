@@ -6,7 +6,6 @@ import { useEffect, useState } from "react";
 
 type HeaderProps = {
   active?: "produits" | "services" | "apropos" | "faq" | "contact" | "rendezvous";
-  showFaq?: boolean;
 };
 
 const navItems = [
@@ -37,10 +36,10 @@ export function BotanikLogo({ gold = false }: { gold?: boolean }) {
   return <Logo gold={gold} />;
 }
 
-export default function Header({ active, showFaq = false }: HeaderProps) {
+export default function Header({ active }: HeaderProps) {
   const [scrolled, setScrolled] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
-  const visibleItems = navItems.filter((item) => showFaq || item.key !== "faq");
+  const visibleItems = navItems.filter((item) => item.key);
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 40);

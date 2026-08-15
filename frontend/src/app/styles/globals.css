@@ -608,6 +608,12 @@ section {
   font-weight: 500;
 }
 
+.span-e {
+  font-size: 26px;
+}
+
+
+
 .trust-item span {
   color: var(--santal);
   font-size: 12.5px;
@@ -1458,7 +1464,7 @@ footer {
 
 .check-item span.count {
   color: var(--santal);
-  font-size: 12.5px;
+  font-size: 26px;
 }
 
 .price-range {

@@ -5,7 +5,7 @@ import Footer from "@/components/layout/footer";
 import Header from "@/components/layout/header";
 
 export const metadata: Metadata = {
-  title: "Nos Soins — Botanik'Afro",
+  title: "Nos Soins — Botani'K Afro",
 };
 
 export default function ServicesPage() {

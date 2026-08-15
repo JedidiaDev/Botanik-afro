@@ -5,7 +5,7 @@ import Footer from "@/components/layout/footer";
 import Header from "@/components/layout/header";
 
 export const metadata: Metadata = {
-  title: "FAQ — Botanik'Afro",
+  title: "FAQ — Botani'K Afro",
 };
 
 export default function FaqPage() {

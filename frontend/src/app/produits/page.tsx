@@ -4,7 +4,7 @@ import Footer from "@/components/layout/footer";
 import Header from "@/components/layout/header";
 
 export const metadata: Metadata = {
-  title: "Boutique — Botanik'Afro",
+  title: "Boutique — Botani'K Afro",
 };
 
 export default function ProduitsPage() {

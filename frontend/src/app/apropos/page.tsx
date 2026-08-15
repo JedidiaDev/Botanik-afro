@@ -7,7 +7,7 @@ import Header from "@/components/layout/header";
 import { team, timeline } from "@/config/botanik";
 
 export const metadata: Metadata = {
-  title: "À propos — Botanik'Afro",
+  title: "À propos — Botani'K Afro",
 };
 
 const values = [
@@ -70,7 +70,7 @@ export default function AproposPage() {
             </div>
             <div className="story-img reveal">
               <Image
-                alt="Fondatrice de Botanik'Afro"
+                alt="Fondatrice de Botani'K Afro"
                 fill
                 sizes="(max-width: 1080px) 420px, 50vw"
                 src="https://images.unsplash.com/photo-1519699047748-de8e457a634e?q=80&w=900&auto=format&fit=crop"

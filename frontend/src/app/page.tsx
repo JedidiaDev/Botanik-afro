@@ -44,7 +44,7 @@ const advantages = [
 export default function Home() {
   return (
     <>
-      <Header showFaq />
+      <Header />
       <main>
         <section className="hero">
           <div className="container hero-grid">
@@ -73,6 +73,7 @@ export default function Home() {
               <div className="hero-trust">
                 <div className="trust-item">
                   <strong>
+                    12
                     <Counter value={12} />
                   </strong>
                   <span>Ans d&apos;expertise</span>
@@ -155,7 +156,7 @@ export default function Home() {
         <section id="avantages">
           <div className="container">
             <div className="section-head reveal">
-              <div className="eyebrow">Pourquoi Botanik&apos;Afro</div>
+              <div className="eyebrow">Pourquoi Botani&apos;K Afro</div>
               <h2>Une approche qui respecte chaque texture</h2>
             </div>
             <div className="avantages-grid reveal-stagger">
@@ -245,7 +246,7 @@ export default function Home() {
                   alt="Soin capillaire en institut"
                   fill
                   sizes="(max-width: 1080px) 420px, 54vw"
-                  src="https://images.unsplash.com/photo-1560869713-7d0a29430803?q=80&w=900&auto=format&fit=crop"
+                  src="/images/img2.jpg"
                 />
               </div>
             </div>

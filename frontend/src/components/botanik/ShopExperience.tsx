@@ -4,6 +4,7 @@ import { useState } from "react";
 import Image from "next/image";
 import ProductCard from "./ProductCard";
 import { products, type Product } from "@/config/botanik";
+import { Search } from "lucide-react";
 
 function Toast({ message }: { message: string }) {
   return (
@@ -96,7 +97,7 @@ export default function ShopExperience() {
       <div className="shop-wrap">
         <aside className="sidebar reveal">
           <div className="search-bar" style={{ marginBottom: 0 }}>
-            <span>🔍</span>
+            <Search size={18} />
             <input placeholder="Rechercher un produit…" type="text" />
           </div>
 

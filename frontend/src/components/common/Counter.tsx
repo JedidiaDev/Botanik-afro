@@ -47,7 +47,7 @@ export default function Counter({
   }, [value, duration]);
 
   return (
-    <span ref={ref}>
+    <span ref={ref} className="span-e" >
       {prefix}
       {count.toLocaleString("fr-FR")}
       {suffix}

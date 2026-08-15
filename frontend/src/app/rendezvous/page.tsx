@@ -4,7 +4,7 @@ import Footer from "@/components/layout/footer";
 import Header from "@/components/layout/header";
 
 export const metadata: Metadata = {
-  title: "Rendez-vous — Botanik'Afro",
+  title: "Rendez-vous — Botani'K Afro",
 };
 
 export default function RendezvousPage() {

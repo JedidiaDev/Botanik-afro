@@ -15,7 +15,7 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  title: "Botanik'Afro — Le soin qui écoute vos boucles",
+  title: "Botani'K Afro — Le soin qui écoute vos boucles",
   description:
     "Soins capillaires naturels pour cheveux afro, bouclés, frisés et crépus.",
 };

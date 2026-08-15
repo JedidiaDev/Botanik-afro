@@ -21,14 +21,14 @@ function Logo({ gold = false }: { gold?: boolean }) {
   return (
     <Link href="/" className="logo">
       <Image
-        alt="Botanik'Afro"
+        alt="Botani'K Afro"
         className="logo-image"
         height={46}
         priority={!gold}
         src="/images/logo.jpg"
         width={46}
       />
-      BOTANIK&apos; AFRO
+      BOTANI&apos;K AFRO
     </Link>
   );
 }

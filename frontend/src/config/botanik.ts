@@ -66,7 +66,7 @@ export const products: Product[] = [
     alt: "Shampoing sans sulfate",
   },
   {
-    name: "Rituel Complet Botanik'Afro",
+    name: "Rituel Complet Botani'K Afro",
     category: "Coffret",
     price: "32 000 FCFA",
     rating: "★★★★★",
@@ -332,7 +332,7 @@ export const timeline = [
   {
     year: "2018",
     title: "Ouverture du premier institut",
-    text: "Botanik'Afro ouvre son premier salon à Kodengui, avec une équipe de spécialistes des cheveux crépus et frisés.",
+    text: "Botani'K Afro ouvre son premier salon à Kodengui, avec une équipe de spécialistes des cheveux crépus et frisés.",
   },
   {
     year: "2022",
@@ -342,7 +342,7 @@ export const timeline = [
   {
     year: "2026",
     title: "4 800 client·es accompagné·es",
-    text: "Botanik'Afro devient une référence régionale du soin capillaire naturel, en institut comme en ligne.",
+    text: "Botani'K Afro devient une référence régionale du soin capillaire naturel, en institut comme en ligne.",
   },
 ];
 

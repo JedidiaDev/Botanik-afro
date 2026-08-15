@@ -5,7 +5,7 @@ import Footer from "@/components/layout/footer";
 import Header from "@/components/layout/header";
 
 export const metadata: Metadata = {
-  title: "Contact — Botanik'Afro",
+  title: "Contact — Botani'K Afro",
 };
 
 export default function ContactPage() {
@@ -37,7 +37,7 @@ export default function ContactPage() {
                 <iframe
                   loading="lazy"
                   src="https://www.google.com/maps?q=Kodengui,Yaound%C3%A9,Cameroun&output=embed"
-                  title="Localisation Botanik'Afro"
+                  title="Localisation Botani'K Afro"
                 />
               </div>
               <div className="info-float">

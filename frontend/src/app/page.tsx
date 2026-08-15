@@ -98,7 +98,7 @@ export default function Home() {
                   fill
                   priority
                   sizes="(max-width: 1080px) 440px, 46vw"
-                  src="https://images.unsplash.com/photo-1595959183082-7b570b7e08e2?q=80&w=1000&auto=format&fit=crop"
+                  src="/images/img5.jpg"
                 />
               </div>
               <div className="hero-badge-top">

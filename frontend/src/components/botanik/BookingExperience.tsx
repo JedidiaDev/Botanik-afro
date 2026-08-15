@@ -217,7 +217,7 @@ export default function BookingExperience() {
               </div>
               <div className="confirm-row">
                 <span>Lieu</span>
-                <span>Bastos, Yaoundé</span>
+                <span>Kodengui, Yaoundé</span>
               </div>
             </div>
             <div className="confirm-actions">

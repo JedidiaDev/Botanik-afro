@@ -332,7 +332,7 @@ export const timeline = [
   {
     year: "2018",
     title: "Ouverture du premier institut",
-    text: "Botanik'Afro ouvre son premier salon à Bastos, avec une équipe de spécialistes des cheveux crépus et frisés.",
+    text: "Botanik'Afro ouvre son premier salon à Kodengui, avec une équipe de spécialistes des cheveux crépus et frisés.",
   },
   {
     year: "2022",

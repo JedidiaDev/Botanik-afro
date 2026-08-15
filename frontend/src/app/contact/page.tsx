@@ -36,7 +36,7 @@ export default function ContactPage() {
               <div className="map-frame">
                 <iframe
                   loading="lazy"
-                  src="https://www.google.com/maps?q=Bastos,Yaound%C3%A9,Cameroun&output=embed"
+                  src="https://www.google.com/maps?q=Kodengui,Yaound%C3%A9,Cameroun&output=embed"
                   title="Localisation Botanik'Afro"
                 />
               </div>
@@ -69,7 +69,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h5>Adresse</h5>
-                    <span>Rue 1.234, Bastos, Yaoundé — Cameroun</span>
+                    <span>Rue 1.234, Kodengui, Yaoundé — Cameroun</span>
                   </div>
                 </div>
                 <div className="quick-actions">

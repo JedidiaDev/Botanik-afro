@@ -63,7 +63,7 @@ export default function Footer({ compact = false }: FooterProps) {
             <h4>Contact</h4>
             <p>+237 6 90 00 00 00</p>
             <p>hello@botanikafro.com</p>
-            <p>Bastos, Yaoundé — Cameroun</p>
+            <p>Kodengui, Yaoundé — Cameroun</p>
           </div>
 
           <div className="footer-col">
